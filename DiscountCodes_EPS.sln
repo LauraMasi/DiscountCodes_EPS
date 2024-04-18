@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34804.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCodes_EPS.Server", "DiscountCodes_EPS.Server\DiscountCodes_EPS.Server.csproj", "{EA98B0DF-5B3D-4539-90E3-3B7D88A7023B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCodes_EPS.Client", "DiscountCodes_EPS.Client\DiscountCodes_EPS.Client.csproj", "{BCE48C20-3764-4084-8DB6-D460BBFE6A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA98B0DF-5B3D-4539-90E3-3B7D88A7023B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA98B0DF-5B3D-4539-90E3-3B7D88A7023B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA98B0DF-5B3D-4539-90E3-3B7D88A7023B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA98B0DF-5B3D-4539-90E3-3B7D88A7023B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE48C20-3764-4084-8DB6-D460BBFE6A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE48C20-3764-4084-8DB6-D460BBFE6A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE48C20-3764-4084-8DB6-D460BBFE6A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE48C20-3764-4084-8DB6-D460BBFE6A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F30F1C-701D-433E-97E9-C1CCECAE6DFD}
+	EndGlobalSection
+EndGlobal

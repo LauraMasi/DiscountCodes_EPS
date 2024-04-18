@@ -1,0 +1,7 @@
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\bin\Debug\DiscountCodes_EPS.Client.exe.config
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\bin\Debug\DiscountCodes_EPS.Client.exe
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\bin\Debug\DiscountCodes_EPS.Client.pdb
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\obj\Debug\DiscountCodes_EPS.Client.csproj.AssemblyReference.cache
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\obj\Debug\DiscountCodes_EPS.Client.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\obj\Debug\DiscountCodes_EPS.Client.exe
+C:\Users\Laura\Desktop\Testinės užduotys\DiscountCodes_EPS\DiscountCodes_EPS.Client\obj\Debug\DiscountCodes_EPS.Client.pdb
